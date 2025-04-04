@@ -40,21 +40,20 @@ function Hero() {
           <br />
           Ojha
         </h1>
-        <h2>DATA SCIENTIST</h2>
+        <h2>BACKEND DEVELOPER</h2>
         <span>
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/Ankush-ojha-808" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/in/ankush-ojha/" target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+          With a passion for building robust and scalable backend systems to power modern web applications for commercial businesses
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
